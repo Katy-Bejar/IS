@@ -25,7 +25,7 @@ durante el curso de Ingenieria de Software.
     Las sangrías ayudan a mantener un orden visual para mayo entendimiento.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen1.png)
+  ![Screenshot](screen2.png)
     
     
     
