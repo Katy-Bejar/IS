@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 {% block header %}
-    <h2>{% block title %}Actualizar una publicación {% endblock %}</h2>
+    <h2>{% block title %}Actualizar un evento {% endblock %}</h2>
 {% endblock %}
 
 {% block content %}
@@ -8,7 +8,11 @@
         <label for="title">Título</label>
         <input type="text" name="title" id="title" value="{{ post.title }}" required>
         <label for="body">Contenido</label>
-        <textarea name="body" id="body" cols="30" rows="10">{{ post.body }}</textarea>
+        <textarea name="body" id="body" cols="20" rows="70">{{ post.body }}</textarea>
         <input type="submit", value="Guardar">
+
+        <label for="place">Lugar</label>
+        <input type="text" name="place" id="place" required>
+
     </form>
 {% endblock %}
