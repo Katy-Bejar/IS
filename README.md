@@ -13,12 +13,12 @@ su evento en nuestra página web para que tenga mayor alcance.
 ## Funcionalidades
 
 
-![](imagenes/1.jpeg)
-![](imagenes/2.jpeg)
-![](imagenes/3.jpeg)
-![](imagenes/4.jpeg)
-![](imagenes/5.jpeg)
-![](imagenes/6.jpeg)
+![](Imagenes/1.jpeg)
+![](Imagenes/2.jpeg)
+![](Imagenes/3.jpeg)
+![](Imagenes/4.jpeg)
+![](Imagenes/5.jpeg)
+![](Imagenes/6.jpeg)
 
 
 
