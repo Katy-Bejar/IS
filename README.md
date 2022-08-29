@@ -1,5 +1,5 @@
 # Sistema de Publicación de Eventos 
-# Relacionados con Ciecias de la Computación
+# Relacionados con Ciencias de la Computación
 
 ## Propósito del proyecto
 
