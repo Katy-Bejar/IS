@@ -148,47 +148,7 @@ Ya al iniciar sesión el usuario podrá añadir una o varias publicaciones; en e
     -CLOSE: Mostrar eventos
    ![Screenshot](Imagenes/screen12.png)
     
-    
-
-
-## Conceptos DDD aplicados 
-
-### 1. Lenguaje Obicuo
-    
-    Para tener una mayor comprensión entre todos los desarrolladores establecimos palabras que
-    serán de uso grupal a la hora de implementar, asi entendemos mejor el codigo de los demás.
-    Un ejemplo de nuestro lenguaje oblicuo son los siguientes términos:
-    
-    - login --> operaciones de acceso
-    - register --> operaciones de registro
-    - base --> pantalla principal
-    - view--> implementacion para vistas
-    - config --> configuraciones principales
-    - static --> archivos estaticos de diseño
-    - models --> implementación de los modelos del proyecto
-    - templates --> plantillas html para las vistas 
-    
- ### 2. Corazón del Software
-    
-    El modelo es el corazón del software por lo cual se usan repositorios, mediante los cuales
-    se puede visualizar, probrar y visualizar los avances y modficaciones del proyecto.
-    En nuestro caso utilizamos el repositorio de GITHUB.
-    
-   ![Screenshot](Imagenes/screen16.png)
-    
-    
- ### 3. Mocks
-    Una de las ventajas de utilizar DDD es que permite las pruebas MOCK la cual consiste 
-    en realizar examenes de prueba unitaria para hallar errores de codigo antes de juntar
-    todos los objetos y archivos que componen el proyecto.
-    
-    - Utilizamos pruebas MOCK con cada una de las vistas antes de unir todo el proyecto.
-    
-    
-  ![Screenshot](Imagenes/screen17.png)
-
-
-
+   
 ## Aportes del grupo
 
 ### Edson Béjar Román:
