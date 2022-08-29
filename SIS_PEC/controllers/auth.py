@@ -1,5 +1,6 @@
 import functools
 from os import error
+from flask import Flask
 from flask import(
     render_template, Blueprint, flash, g, redirect, request, session, url_for
 )
