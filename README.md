@@ -16,7 +16,7 @@ durante el curso de Ingenieria de Software.
     Comentar el código es de mucha utilidad hoy en día porque permite entender mejor la funcionalidad del código para que
     demás desarrolladores puedean utilizarlo de diferentes maneras. 
     Un ejemplo en nuestro codigo es el siguiente:
-    ![Esta es una imagen](https://ibb.co/5sJbvW4)
+    ![Screenshot](screen1.png)
     
 3. Sangría consistente
 4. Agrupación de códigos
