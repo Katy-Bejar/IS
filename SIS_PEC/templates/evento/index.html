@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% block header %}
+    <h2>{% block title %}Publicaciones {% endblock %}</h2>
+    {% if g.user %}
+        <a href="{{ url_for('evento.create') }}">Nueva Publicación</a>
+    {% endif%}
+{% endblock %}
+
+{% block content %}
+
+{% for evento in eventos %}
+    <article>
+        <header>
+            <div>
+               <h1>{{ evento.title }}</h1>
+                <div class="about">
+                    Publicado por {{ get_user(evento.author).username}}
+                    el {{ evento.created.strftime('%Y-%m-%d') }} en {{evento.place}} <!--    ............      -->
+                </div> 
+            </div>
+            <div>
+                {% if g.user.id == evento.author %}
+                    <a href="{{ url_for('evento.update', id=evento.id) }}">Editar</a>
+                    <a href="{{ url_for('evento.delete', id=evento.id) }}">Eliminar</a>
+                {% endif %}
+            </div>
+        </header>
+        <div>
+            <p>{{ evento.body }}</p>
+        </div>
+    </article>
+{% endfor %}
+
+{% endblock %}
