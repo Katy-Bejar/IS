@@ -4,7 +4,7 @@ class Config:
 
     #Configuración de base dedatos 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
-    SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:@localhost:3306/blog_db"
+    SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:@localhost:3306/sis_pec"
 
 class ProductionConfig(Config):
     DEBUG = False
