@@ -1,7 +1,8 @@
 # Sistema de Publicación de Eventos 
 # Relacionados con Ciencia de la Computación
 
-Integrantes:
+
+#Integrantes:
 
 - Béjar Román, Edson Bryan
 
