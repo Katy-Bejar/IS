@@ -11,10 +11,17 @@ al mismo tiempo que podrán registrarse si alguno de ellos es de su interés, in
 su evento en nuestra página web para que tenga mayor alcance. 
 
 ## Funcionalidades
-
+Se muestra la página web con publicaciones de eventos próximos relacionados a Ciencia de la Computación, donde cualquier usuario puede acceder y ver el título, el nombre del ponente, y una breve descripción sin poder modificarlo.
+En la parte superior derecha podemos observar dos botones, donde el usuario podrá registrarse o, si es que ya lo hizo, iniciar sesión.
 
 ![](Imagenes/1.jpeg)
+
+Al momento de apretar el botón de registrarse, tenemos que llenar nuestros datos, los cuales son el nombre de usuario y la contraseña, luego nos llevará a la página de iniciar sesión como se muestra en la figura.
+
 ![](Imagenes/2.jpeg)
+
+
+
 ![](Imagenes/3.jpeg)
 ![](Imagenes/4.jpeg)
 ![](Imagenes/5.jpeg)
