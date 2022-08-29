@@ -136,6 +136,22 @@ su evento en nuestra página web para que tenga mayor alcance.
     - models --> implementación de los modelos del proyecto
     - templates --> plantillas html para las vistas 
     
+ ### 2. Corazón del Software
+    
+    El modelo es el corazón del software por lo cual se usan repositorios, mediante los cuales
+    se puede visualizar, probrar y visualizar los avances y modficaciones del proyecto.
+    En nuestro caso utilizamos el repositorio de GITHUB.
+    
+    ![Screenshot](Imagenes/screen16.png)
+    
+    
+ ### 3. Mocks
+    Una de las ventajas de utilizar DDD es que permite las pruebas MOCK la cual consiste 
+    en realizar examenes de prueba unitaria para hallar errores de codigo antes de juntar
+    todos los objetos y archivos que componen el proyecto.
+    
+    - Utilizamos pruebas MOCK con cada una de las vistas antes de unir todo el proyecto.
+    
     
   
 
