@@ -99,6 +99,19 @@ su evento en nuestra página web para que tenga mayor alcance.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen11.png)
+  
+### 2. Principio abierto/cerrado
+    
+    En el pryecto se tiene la opción de agregar evento lo cual representa a la parte de abierto del principio, pero además 
+    muestra todos los eventos que hay sin necesidad de modificar la parte del código que lo muestra, pues se utiliza una iteración, lo que 
+    representa la parte de cerrado del princiìo.
+    Como se muestra a continuación:
+    
+    -OPEN:
+   ![Screenshot](Imagenes/screen13.png)
+    -CLOSE:
+   ![Screenshot](Imagenes/screen13.png)
+    
     
 
 
