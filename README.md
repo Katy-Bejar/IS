@@ -16,14 +16,17 @@ En la parte superior derecha podemos observar dos botones, donde el usuario podr
 
 ![](Imagenes/1.jpeg)
 
-Al momento de apretar el botón de registrarse, tenemos que llenar nuestros datos, los cuales son el nombre de usuario y la contraseña, luego nos llevará a la página de iniciar sesión como se muestra en la figura.
+Al momento de apretar el botón de registrarse, tenemos que llenar nuestros datos, los cuales son el nombre de usuario y la contraseña como se muestra en la figura.
 
 ![](Imagenes/2.jpeg)
 
 
-
+Luego de haber hecho el registro exitosamente, nos llevará a la página de iniciar sesión y se tendrá que poner los mismos datos con los que se registró anteriormente.
 ![](Imagenes/3.jpeg)
+
+Ya al iniciar sesión el usuario podrá añadir una o varias publicaciones; en el caso de haber tenido un error puede modificarlas o por defecto eliminarlos.
 ![](Imagenes/4.jpeg)
+
 ![](Imagenes/5.jpeg)
 ![](Imagenes/6.jpeg)
 
