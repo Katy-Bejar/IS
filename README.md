@@ -40,7 +40,8 @@ su evento en nuestra página web para que tenga mayor alcance.
 
   ### 4. Esquema con nombres coherentes
 
-    Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
+    Los nombres deben tener límites de palabras para ello se usa el subquión 
+    o mayúsculas.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen4.png)   
@@ -48,7 +49,8 @@ su evento en nuestra página web para que tenga mayor alcance.
   
   ### 5. Límite de longitud de línea
 
-    Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
+    Es mejor tener un límite de línea que una linea extensa de código de
+    dificil legibilidad.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen5.png)   
@@ -84,7 +86,8 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ### 3. Trinity
 
-    La aplicación se divide en tres componentes que son el modelo, la vista y el controlador. 
+    La aplicación se divide en tres componentes que son el modelo, la vista y
+    el controlador. 
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen10.png)
@@ -94,23 +97,24 @@ su evento en nuestra página web para que tenga mayor alcance.
 ### 1. Principio de inversión de dependencias 
     
     Un modo de emplear este principiso es cuando para un servicio web utilizamos conexion a base de datos,
-    es mejor colocar en un archivo o función aparte las configuraciones de la conexión de base de datos, para asi evitar
-    modificar adicionales lineas de codigo donde hacemos uso de la base de datos.
+    es mejor colocar en un archivo o función aparte las configuraciones de la conexión de base de datos,
+    para asi evitar modificar adicionales lineas de codigo donde hacemos uso de la base de datos.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen11.png)
   
 ### 2. Principio abierto/cerrado
     
-    En el pryecto se tiene la opción de agregar evento lo cual representa a la parte de abierto del principio, pero además 
-    muestra todos los eventos que hay sin necesidad de modificar la parte del código que lo muestra, pues se utiliza una iteración, lo que 
-    representa la parte de cerrado del princiìo.
+    En el proyecto se tiene la opción de agregar evento lo cual representa a la parte de abierto del principio, pero además 
+    muestra todos los eventos que hay sin necesidad de modificar la parte del código que lo muestra, pues se utiliza una 
+    iteración, lo que representa la parte de cerrado del principio.
     Como se muestra a continuación:
     
-    -OPEN:
+    -OPEN: Agregar evento
    ![Screenshot](Imagenes/screen13.png)
-    -CLOSE:
-   ![Screenshot](Imagenes/screen13.png)
+   
+    -CLOSE: Mostrar eventos
+   ![Screenshot](Imagenes/screen12.png)
     
     
 
