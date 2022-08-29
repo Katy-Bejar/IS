@@ -27,17 +27,34 @@ durante el curso de Ingenieria de Software.
     
   ![Screenshot](screen2.png)
     
- ### 2. Agrupación de códigos 
+ ### 3. Agrupación de códigos 
 
     En ocasiones un conjunto de tareas no ocupa mucha realización de código.
     Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen2.png)   
+  ![Screenshot](screen3.png)   
+    
+  ### 3. Agrupación de códigos 
+
+    En ocasiones un conjunto de tareas no ocupa mucha realización de código.
+    Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen3.png)   
+
+  ### 4. Esquema con nombres coherentes
+
+    Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen4.png)   
     
     
-    
+4. Esquema con nombres coherentes
+
 4. Evite el anidamiento profundo
+
 5. Limite la longitud de la línea
 
 
