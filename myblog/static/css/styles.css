@@ -68,9 +68,7 @@ body {
     padding: 10px;
 }
 
-
 /*Index - Publicacion de eventos*/
-
 article {
     padding: 10px 0;
 }
@@ -92,9 +90,7 @@ article header .about {
     font-size: 18px;
 }
 
-
 /*Formularios*/
-
 form {
     margin: 10px 0;
     display: flex;
@@ -116,9 +112,7 @@ form input[type=submit] {
     min-width: 200px;
 }
 
-
 /* LOGIN*/
-
 .login {
     max-width: 30%;
     margin: 0 auto;
