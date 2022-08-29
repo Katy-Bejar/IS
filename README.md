@@ -13,10 +13,15 @@ durante el curso de Ingenieria de Software.
 ## Prácticas de código legible aplicadas
 
 1. Comentarios y documentación 
-2. Sangría consistente
-3. Agrupación de códigos
-4. Evite el anidamiento profundo
-5. Limite la longitud de la línea
+    Comentar el código es de mucha utilidad hoy en día porque permite entender mejor la funcionalidad del código para que
+    demás desarrolladores puedean utilizarlo de diferentes maneras. 
+    Un ejemplo en nuestro codigo es el siguiente:
+    ![Esta es una imagen](https://ibb.co/5sJbvW4)
+    
+3. Sangría consistente
+4. Agrupación de códigos
+5. Evite el anidamiento profundo
+6. Limite la longitud de la línea
 
 
 ## Estilos de programación aplicados
