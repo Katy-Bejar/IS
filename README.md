@@ -187,7 +187,7 @@ Ya al iniciar sesión el usuario podrá añadir una o varias publicaciones; en e
 
 ## Aportes del grupo
 
-### Edson:
+### Edson Béjar Román:
 
 - Template de Evento
 - Modelo Evento
