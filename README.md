@@ -10,8 +10,13 @@ durante el curso de Ingenieria de Software.
 
 ## Funcionalidades
 
-## Practicas de código legible aplicadas
+## Prácticas de código legible aplicadas
 
+1. Comentarios y documentación 
+2. Sangría consistente
+3. Agrupación de códigos
+4. Evite el anidamiento profundo
+5. Limite la longitud de la línea
 
 
 ## Estilos de programación aplicados
