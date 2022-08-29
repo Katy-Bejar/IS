@@ -120,3 +120,30 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 
 ## Conceptos DDD aplicados 
+
+### 1. Lenguaje Obicuo
+    
+    Para tener una mayor comprensión entre todos los desarrolladores establecimos palabras que
+    serán de uso grupal a la hora de implementar, asi entendemos mejor el codigo de los demás.
+    Un ejemplo de nuestro lenguaje oblicuo son los siguientes términos:
+    
+    - login --> operaciones de acceso
+    - register --> operaciones de registro
+    - base --> pantalla principal
+    - view--> implementacion para vistas
+    - config --> configuraciones principales
+    - static --> archivos estaticos de diseño
+    - models --> implementación de los modelos del proyecto
+    - templates --> plantillas html para las vistas 
+    
+    
+  
+
+
+
+
+
+
+
+
+
