@@ -35,13 +35,6 @@ durante el curso de Ingenieria de Software.
     
   ![Screenshot](screen3.png)   
     
-  ### 3. Agrupación de códigos 
-
-    En ocasiones un conjunto de tareas no ocupa mucha realización de código.
-    Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
-    Un ejemplo en nuestro codigo es el siguiente:
-    
-  ![Screenshot](screen3.png)   
 
   ### 4. Esquema con nombres coherentes
 
@@ -49,13 +42,25 @@ durante el curso de Ingenieria de Software.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](screen4.png)   
+  
+  
+  ### 5. Límite de longitud de línea
+
+    Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen5.png)   
     
     
-4. Esquema con nombres coherentes
+   ### 6. Evite el anidamiento profundo
 
-4. Evite el anidamiento profundo
+    Demasiados niveles de anidamiento hacen que el código sea menos legible
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen6.png) 
 
-5. Limite la longitud de la línea
+
+
 
 
 ## Estilos de programación aplicados
