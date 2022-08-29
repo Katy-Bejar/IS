@@ -20,14 +20,14 @@ su evento en nuestra página web para que tenga mayor alcance.
     demás desarrolladores puedan utilizarlo de diferentes maneras. 
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen1.png)
+  ![Screenshot](Imagenes/screen1.png)
     
 ### 2. Sangría consistente 
 
     Las sangrías ayudan a mantener un orden visual para mayo entendimiento.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen2.png)
+  ![Screenshot](Imagenes/screen2.png)
     
  ### 3. Agrupación de códigos 
 
@@ -35,7 +35,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen3.png)   
+  ![Screenshot](Imagenes/screen3.png)   
     
 
   ### 4. Esquema con nombres coherentes
@@ -43,7 +43,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen4.png)   
+  ![Screenshot](Imagenes/screen4.png)   
   
   
   ### 5. Límite de longitud de línea
@@ -51,7 +51,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     Los nombres deben tener límites de palabras para ello se usa el subquión o mayúsculas.
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen5.png)   
+  ![Screenshot](Imagenes/screen5.png)   
     
     
    ### 6. Evite el anidamiento profundo
@@ -59,7 +59,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     Demasiados niveles de anidamiento hacen que el código sea menos legible
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](screen6.png) 
+  ![Screenshot](Imagenes/screen6.png) 
 
 
 
