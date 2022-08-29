@@ -2,7 +2,7 @@ class Config:
     DEBUG = True
     TESTING = True
 
-    #Configuración de base dedatos 
+    #Configuración de base de datos 
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_DATABASE_URI = "mysql+pymysql://root:@localhost:3306/sis_pec"
 
