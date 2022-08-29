@@ -12,16 +12,28 @@ durante el curso de Ingenieria de Software.
 
 ## Prácticas de código legible aplicadas
 
-1. Comentarios y documentación 
+### 1. Comentarios y documentación 
+
     Comentar el código es de mucha utilidad hoy en día porque permite entender mejor la funcionalidad del código para que
-    demás desarrolladores puedean utilizarlo de diferentes maneras. 
+    demás desarrolladores puedan utilizarlo de diferentes maneras. 
     Un ejemplo en nuestro codigo es el siguiente:
-    ![Screenshot](screen1.png)
     
-3. Sangría consistente
-4. Agrupación de códigos
-5. Evite el anidamiento profundo
-6. Limite la longitud de la línea
+  ![Screenshot](screen1.png)
+    
+### 1. Sangría consistente 
+
+    Las sangrías ayudan a mantener un orden visual para mayo entendimiento.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen1.png)
+    
+    
+    
+    
+2. Sangría consistente
+3. Agrupación de códigos
+4. Evite el anidamiento profundo
+5. Limite la longitud de la línea
 
 
 ## Estilos de programación aplicados
