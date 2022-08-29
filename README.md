@@ -66,22 +66,28 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ### 1. CookBook 
 
-    Para realizar una acción se dividen las subtareas en funciones mas pequeñas y al final se juntan para resolver un mismo objetivo.
+    Para realizar una acción se dividen las subtareas en funciones mas pequeñas
+    y al final se juntan para resolver un mismo objetivo.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen7.png)
 
 ### 2. Programación orientada a objetos
 
-    Una forma mas fácil de manejar un escenario con muchas partes es crear objetos que nos permitan un mejor manejo y estructuración de nuestro escenario. 
+    Una forma mas fácil de manejar un escenario con muchas partes es crear objetos
+    que nos permitan un mejor manejo y estructuración de nuestro escenario. 
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](Imagenes/screen8.png)
   
   ![Screenshot](Imagenes/screen9.png)
 
+### 3. Trinity
 
-
+    La aplicación se divide en tres componentes que son el modelo, la vista y el controlador. 
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](Imagenes/screen10.png)
 
 ## Principios SOLID aplicados
 
