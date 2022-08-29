@@ -88,7 +88,7 @@ su evento en nuestra página web para que tenga mayor alcance.
 
     La aplicación se divide en tres componentes que son el modelo, la vista y
     el controlador. 
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen10.png)
 
@@ -96,10 +96,10 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ### 1. Principio de inversión de dependencias 
     
-    Un modo de emplear este principiso es cuando para un servicio web utilizamos conexion a base de datos,
+    Un modo de emplear este principio es cuando para un servicio web utilizamos conexión a base de datos,
     es mejor colocar en un archivo o función aparte las configuraciones de la conexión de base de datos,
-    para asi evitar modificar adicionales lineas de codigo donde hacemos uso de la base de datos.
-    Un ejemplo en nuestro codigo es el siguiente:
+    para así evitar modificar adicionales líneas de código donde hacemos uso de la base de datos.
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen11.png)
   
