@@ -91,4 +91,15 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ## Principios SOLID aplicados
 
+### 1. Principio de inversión de dependencias 
+    
+    Un modo de emplear este principiso es cuando para un servicio web utilizamos conexion a base de datos,
+    es mejor colocar en un archivo o función aparte las configuraciones de la conexión de base de datos, para asi evitar
+    modificar adicionales lineas de codigo donde hacemos uso de la base de datos.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](Imagenes/screen11.png)
+    
+
+
 ## Conceptos DDD aplicados 
