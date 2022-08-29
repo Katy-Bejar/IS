@@ -12,6 +12,16 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ## Funcionalidades
 
+
+![](imagenes/1.jpeg)
+![](imagenes/2.jpeg)
+![](imagenes/3.jpeg)
+![](imagenes/4.jpeg)
+![](imagenes/5.jpeg)
+![](imagenes/6.jpeg)
+
+
+
 ## Prácticas de código legible aplicadas
 
 ### 1. Comentarios y documentación 
