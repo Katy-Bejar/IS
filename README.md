@@ -49,9 +49,9 @@ su evento en nuestra página web para que tenga mayor alcance.
   
   ### 5. Límite de longitud de línea
 
-    Es mejor tener un límite de línea que una linea extensa de código de
-    dificil legibilidad.
-    Un ejemplo en nuestro codigo es el siguiente:
+    Es mejor tener un límite de línea que una línea extensa de código de
+    difícil legibilidad.
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen5.png)   
     
@@ -59,7 +59,7 @@ su evento en nuestra página web para que tenga mayor alcance.
    ### 6. Evite el anidamiento profundo
 
     Demasiados niveles de anidamiento hacen que el código sea menos legible
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen6.png) 
 
@@ -68,9 +68,9 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ### 1. CookBook 
 
-    Para realizar una acción se dividen las subtareas en funciones mas pequeñas
+    Para realizar una acción se dividen las subtareas en funciones más pequeñas
     y al final se juntan para resolver un mismo objetivo.
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen7.png)
 
@@ -78,7 +78,7 @@ su evento en nuestra página web para que tenga mayor alcance.
 
     Una forma mas fácil de manejar un escenario con muchas partes es crear objetos
     que nos permitan un mejor manejo y estructuración de nuestro escenario. 
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen8.png)
   
