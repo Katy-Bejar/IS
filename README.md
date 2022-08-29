@@ -62,10 +62,23 @@ su evento en nuestra página web para que tenga mayor alcance.
   ![Screenshot](Imagenes/screen6.png) 
 
 
-
-
-
 ## Estilos de programación aplicados
+
+### 1. CookBook 
+
+    Para realizar una acción se dividen las subtareas en funciones mas pequeñas y al final se juntan para resolver un mismo objetivo.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](Imagenes/screen7.png)
+
+### 1. CookBook 
+
+    Para realizar una acción se dividen las subtareas en funciones mas pequeñas y al final se juntan para resolver un mismo objetivo.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](Imagenes/screen7.png)
+
+
 
 
 ## Principios SOLID aplicados
