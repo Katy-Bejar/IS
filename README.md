@@ -185,8 +185,25 @@ Ya al iniciar sesión el usuario podrá añadir una o varias publicaciones; en e
 
 
 
+## Aportes del grupo
 
+### Edson:
 
+- Template de Evento
+- Modelo Evento
+- Controlador evento 
+
+### Katherine Bejar Roman:
+
+- Realización de la conexión de base de datos.
+- Diseño CSS
+- Template administrador
+- Modelo administrador
+
+### Yanira Suni Quispe:
+- Template de Ponente
+- Modelo User
+- Control del login
 
 
 
