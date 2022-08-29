@@ -2,9 +2,12 @@
 # Relacionados con Ciencia de la Computación
 
 Integrantes:
--Béjar Román, Edson Bryan
--Béjar Román, Katherine Nikole
--Suni Quispe, Yanira Angie
+
+- Béjar Román, Edson Bryan
+
+- Béjar Román, Katherine Nikole
+
+- Suni Quispe, Yanira Angie
 
 ## Propósito del proyecto
 
