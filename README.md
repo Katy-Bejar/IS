@@ -71,12 +71,14 @@ su evento en nuestra página web para que tenga mayor alcance.
     
   ![Screenshot](Imagenes/screen7.png)
 
-### 1. CookBook 
+### 2. Programación orientada a objetos
 
-    Para realizar una acción se dividen las subtareas en funciones mas pequeñas y al final se juntan para resolver un mismo objetivo.
+    Una forma mas fácil de manejar un escenario con muchas partes es crear objetos que nos permitan un mejor manejo y estructuración de nuestro escenario. 
     Un ejemplo en nuestro codigo es el siguiente:
     
-  ![Screenshot](Imagenes/screen7.png)
+  ![Screenshot](Imagenes/screen8.png)
+  
+  ![Screenshot](Imagenes/screen9.png)
 
 
 
