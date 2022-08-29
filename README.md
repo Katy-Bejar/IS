@@ -3,10 +3,12 @@
 
 ## Propósito del proyecto
 
+
 El propósito de este proyecto es realizar una página web que nos muestre los
-eventos relacionados con "Ciencias de la computación" , en esta pagina web podremos publicar eventos 
-, ver eventos e inscribirnos. Por otra párte con este proyecto se pretende aplicar los conocimientos aprendidos
-durante el curso de Ingenieria de Software.
+eventos relacionados con "Ciencias de la computación" , con esta pagina web podremos tener un sistema de consulta, registro y creación 
+de eventos relacionados con la computación, los usuarios tendrán la oportunidad de informarse sobre más eventos tecnológicos, 
+al mismo tiempo que podrán registrarse si alguno de ellos es de su interés, incluso los organizadores de eventos podrán publicitar
+su evento en nuestra página web para que tenga mayor alcance. 
 
 ## Funcionalidades
 
