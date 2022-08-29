@@ -2,7 +2,7 @@
 # Relacionados con Ciencia de la Computación
 
 
-#Integrantes:
+# Integrantes:
 
 - Béjar Román, Edson Bryan
 
