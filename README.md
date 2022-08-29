@@ -142,7 +142,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     se puede visualizar, probrar y visualizar los avances y modficaciones del proyecto.
     En nuestro caso utilizamos el repositorio de GITHUB.
     
-    ![Screenshot](Imagenes/screen16.png)
+   ![Screenshot](Imagenes/screen16.png)
     
     
  ### 3. Mocks
@@ -153,7 +153,7 @@ su evento en nuestra página web para que tenga mayor alcance.
     - Utilizamos pruebas MOCK con cada una de las vistas antes de unir todo el proyecto.
     
     
-  
+  ![Screenshot](Imagenes/screen17.png)
 
 
 
