@@ -1,3 +1,5 @@
+#MODELO EVENTO
+
 from datetime import datetime
 from SIS_PEC import db
 
