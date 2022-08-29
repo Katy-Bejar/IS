@@ -20,18 +20,23 @@ durante el curso de Ingenieria de Software.
     
   ![Screenshot](screen1.png)
     
-### 1. Sangría consistente 
+### 2. Sangría consistente 
 
     Las sangrías ayudan a mantener un orden visual para mayo entendimiento.
     Un ejemplo en nuestro codigo es el siguiente:
     
   ![Screenshot](screen2.png)
     
+ ### 2. Agrupación de códigos 
+
+    En ocasiones un conjunto de tareas no ocupa mucha realización de código.
+    Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
+    Un ejemplo en nuestro codigo es el siguiente:
+    
+  ![Screenshot](screen2.png)   
     
     
     
-2. Sangría consistente
-3. Agrupación de códigos
 4. Evite el anidamiento profundo
 5. Limite la longitud de la línea
 
