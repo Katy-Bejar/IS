@@ -5,7 +5,7 @@
 
 
 El propósito de este proyecto es realizar una página web que nos muestre los
-eventos relacionados con "Ciencias de la computación" , con esta pagina web podremos tener un sistema de consulta, registro y creación 
+eventos relacionados con "Ciencia de la computación" , con esta página web podremos tener un sistema de consulta, registro y creación 
 de eventos relacionados con la computación, los usuarios tendrán la oportunidad de informarse sobre más eventos tecnológicos, 
 al mismo tiempo que podrán registrarse si alguno de ellos es de su interés, incluso los organizadores de eventos podrán publicitar
 su evento en nuestra página web para que tenga mayor alcance. 
@@ -16,16 +16,16 @@ su evento en nuestra página web para que tenga mayor alcance.
 
 ### 1. Comentarios y documentación 
 
-    Comentar el código es de mucha utilidad hoy en día porque permite entender mejor la funcionalidad del código para que
+    Comentar el código es de mucha utilidad hoy en día porque permite entender mejor la funcionalidad del mismo para que
     demás desarrolladores puedan utilizarlo de diferentes maneras. 
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen1.png)
     
 ### 2. Sangría consistente 
 
-    Las sangrías ayudan a mantener un orden visual para mayo entendimiento.
-    Un ejemplo en nuestro codigo es el siguiente:
+    Las sangrías ayudan a mantener un orden visual para mayor entendimiento.
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen2.png)
     
@@ -33,7 +33,7 @@ su evento en nuestra página web para que tenga mayor alcance.
 
     En ocasiones un conjunto de tareas no ocupa mucha realización de código.
     Por lo que es recomendable mantenerlos en bloques para localizarlos mas rápido.
-    Un ejemplo en nuestro codigo es el siguiente:
+    Un ejemplo en nuestro código es el siguiente:
     
   ![Screenshot](Imagenes/screen3.png)   
     
